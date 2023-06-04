@@ -27,3 +27,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# to have only necessary code updates to push to git
+/vendor/bundle 
